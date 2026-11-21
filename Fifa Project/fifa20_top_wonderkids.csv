@@ -1,0 +1,171 @@
+sofifa_id,short_name,long_name,age,age_bracket,nationality,club,overall,potential,potential_gap,position_group,player_positions,value_eur,wage_eur,annual_wage_eur,value_wage_ratio,pace,shooting,passing,dribbling,defending,physic,preferred_foot
+231747,K. Mbappé,Kylian Mbappé,20,U21 Wonderkid,France,Paris Saint-Germain,89,95,6,Attacker,"ST, RW",93500000,155000,8060000,11.6,96.0,84.0,78.0,90.0,39.0,75.0,Right
+235243,M. de Ligt,Matthijs de Ligt,19,U21 Wonderkid,Netherlands,Juventus,85,93,8,Defender,CB,50000000,76000,3952000,12.65,67.0,58.0,66.0,68.0,83.0,84.0,Right
+242444,João Félix,João Félix Sequeira,19,U21 Wonderkid,Portugal,Atlético Madrid,80,93,13,Attacker,"CF, ST",28000000,38000,1976000,14.17,82.0,80.0,74.0,81.0,40.0,70.0,Right
+230621,G. Donnarumma,Gianluigi Donnarumma,20,U21 Wonderkid,Italy,Milan,85,92,7,Goalkeeper,GK,41500000,34000,1768000,23.47,,,,,,,Right
+233049,J. Sancho,Jadon Sancho,19,U21 Wonderkid,England,Borussia Dortmund,84,92,8,Midfielder,"RM, LM",44500000,61000,3172000,14.03,88.0,72.0,77.0,90.0,36.0,60.0,Right
+235790,K. Havertz,Kai Havertz,20,U21 Wonderkid,Germany,Bayer 04 Leverkusen,84,92,8,Midfielder,"CAM, RM",46000000,70000,3640000,12.64,84.0,78.0,79.0,84.0,44.0,65.0,Left
+238794,Vinícius Jr.,Vinícius José de Oliveira Júnior,18,U21 Wonderkid,Brazil,Real Madrid,79,92,13,Attacker,LW,22500000,60000,3120000,7.21,93.0,70.0,71.0,85.0,29.0,63.0,Right
+237692,P. Foden,Philip Foden,19,U21 Wonderkid,England,Manchester City,76,90,14,Midfielder,"CAM, CM",16500000,52000,2704000,6.1,74.0,64.0,74.0,79.0,55.0,55.0,Left
+231281,T. Alexander-Arnold,Trent Alexander-Arnold,20,U21 Wonderkid,England,Liverpool,83,89,6,Defender,RB,32000000,78000,4056000,7.89,80.0,62.0,82.0,78.0,78.0,70.0,Right
+232432,L. Jović,Luka Jović,21,21-25 Rising,Serbia,Real Madrid,83,89,6,Attacker,ST,36500000,155000,8060000,4.53,77.0,82.0,68.0,81.0,29.0,74.0,Right
+231478,L. Martínez,Lautaro Martínez,21,21-25 Rising,Argentina,Inter,81,89,8,Attacker,ST,27000000,61000,3172000,8.51,81.0,77.0,68.0,82.0,40.0,83.0,Right
+234906,H. Aouar,Houssem Aouar,21,21-25 Rising,France,Olympique Lyonnais,81,89,8,Midfielder,CM,26000000,59000,3068000,8.47,79.0,71.0,79.0,83.0,66.0,67.0,Right
+233927,Lucas Paquetá,Lucas Tolentino Coelho de Lima,21,21-25 Rising,Brazil,Milan,79,89,10,Midfielder,"CAM, CM",20500000,32000,1664000,12.32,76.0,75.0,75.0,81.0,60.0,77.0,Left
+236610,M. Kean,Moise Kean,19,U21 Wonderkid,Italy,Everton,76,89,13,Attacker,ST,14500000,43000,2236000,6.48,81.0,72.0,50.0,77.0,30.0,68.0,Right
+243812,Rodrygo,Rodrygo Silva de Goes,18,U21 Wonderkid,Brazil,Real Madrid,76,89,13,Attacker,"LW, RW, ST",14000000,47000,2444000,5.73,85.0,72.0,65.0,80.0,29.0,57.0,Right
+241096,S. Tonali,Sandro Tonali,19,U21 Wonderkid,Italy,Brescia,75,89,14,Midfielder,"CDM, CM",13500000,7000,364000,37.09,78.0,65.0,75.0,75.0,71.0,76.0,Right
+236772,D. Szoboszlai,Dominik Szoboszlai,18,U21 Wonderkid,Hungary,FC Red Bull Salzburg,74,89,15,Midfielder,"CAM, RM, CM",11500000,11000,572000,20.1,80.0,69.0,71.0,78.0,37.0,65.0,Right
+231677,M. Rashford,Marcus Rashford,21,21-25 Rising,England,Manchester United,83,88,5,Attacker,"ST, LM",35500000,125000,6500000,5.46,92.0,82.0,73.0,84.0,45.0,77.0,Right
+229906,L. Bailey,Leon Bailey Butler,21,21-25 Rising,Jamaica,Bayer 04 Leverkusen,82,88,6,Attacker,"LW, RW",30500000,65000,3380000,9.02,91.0,77.0,75.0,84.0,33.0,64.0,Left
+240130,Éder Militão,Éder Gabriel Militão,21,21-25 Rising,Brazil,Real Madrid,81,88,7,Defender,"CB, RB",23000000,105000,5460000,4.21,79.0,50.0,66.0,71.0,81.0,81.0,Right
+229880,A. Wan-Bissaka,Aaron Wan-Bissaka,21,21-25 Rising,England,Manchester United,79,88,9,Defender,RB,17500000,71000,3692000,4.74,87.0,50.0,63.0,78.0,80.0,72.0,Right
+231691,A. Lafont,Alban Lafont,20,U21 Wonderkid,France,FC Nantes,79,88,9,Goalkeeper,GK,15500000,15000,780000,19.87,,,,,,,Right
+237678,I. Konaté,Ibrahima Konaté,20,U21 Wonderkid,France,RB Leipzig,79,88,9,Defender,CB,18000000,36000,1872000,9.62,78.0,27.0,54.0,68.0,80.0,78.0,Right
+235353,I. Sarr,Ismaïla Sarr,21,21-25 Rising,Senegal,Watford,78,88,10,Midfielder,"RM, LM",17000000,47000,2444000,6.96,94.0,77.0,68.0,81.0,22.0,64.0,Right
+229558,D. Upamecano,Dayotchanculle Upamecano,20,U21 Wonderkid,France,RB Leipzig,77,88,11,Defender,CB,14000000,30000,1560000,8.97,76.0,36.0,59.0,61.0,75.0,80.0,Right
+243952,A. Lunin,Andriy Lunin,20,U21 Wonderkid,Ukraine,Real Valladolid CF,76,88,12,Goalkeeper,GK,11000000,10000,520000,21.15,,,,,,,Right
+238067,N. Zaniolo,Nicolò Zaniolo,19,U21 Wonderkid,Italy,Roma,74,88,14,Midfielder,"CAM, CM, RW",12000000,18000,936000,12.82,73.0,66.0,68.0,76.0,59.0,76.0,Left
+240740,C. Hudson-Odoi,Callum Hudson-Odoi,18,U21 Wonderkid,England,Chelsea,74,88,14,Attacker,"RW, LW",11500000,31000,1612000,7.13,85.0,64.0,67.0,81.0,30.0,60.0,Right
+245371,T. Almada,Thiago Almada,18,U21 Wonderkid,Argentina,Vélez Sarsfield,72,88,16,Midfielder,"CAM, LW, ST",6500000,4000,208000,31.25,86.0,70.0,66.0,76.0,37.0,55.0,Right
+243715,W. Saliba,William Saliba,18,U21 Wonderkid,France,AS Saint-Étienne,71,88,17,Defender,CB,4600000,5000,260000,17.69,63.0,29.0,57.0,55.0,71.0,72.0,Right
+246045,P. De la Vega,Pedro De la Vega,18,U21 Wonderkid,Argentina,Club Atlético Lanús,70,88,18,Attacker,RW,3700000,5000,260000,14.23,86.0,62.0,60.0,76.0,30.0,59.0,Right
+225953,S. Bergwijn,Steven Bergwijn,21,21-25 Rising,Netherlands,PSV,82,87,5,Attacker,"RW, CAM, LW",30000000,22000,1144000,26.22,89.0,75.0,76.0,85.0,40.0,73.0,Right
+228092,S. Berge,Sander Berge,21,21-25 Rising,Norway,KRC Genk,79,87,8,Midfielder,"CDM, CM",17000000,14000,728000,23.35,74.0,49.0,74.0,74.0,76.0,85.0,Right
+235805,F. Chiesa,Federico Chiesa,21,21-25 Rising,Italy,Fiorentina,79,87,8,Attacker,"RW, CF",18500000,48000,2496000,7.41,85.0,74.0,71.0,83.0,44.0,64.0,Right
+244260,Dani Olmo,Daniel Olmo Carvajal,21,21-25 Rising,Spain,Dinamo Zagreb,79,87,8,Midfielder,"CAM, LM, CM",18500000,1000,52000,355.77,80.0,76.0,76.0,82.0,48.0,61.0,Right
+234378,D. Rice,Declan Rice,20,U21 Wonderkid,England,West Ham United,78,87,9,Midfielder,"CDM, CB, CM",15000000,49000,2548000,5.89,62.0,37.0,64.0,68.0,77.0,77.0,Right
+235926,M. Zaracho,Matías Zaracho,21,21-25 Rising,Argentina,Racing Club,78,87,9,Midfielder,"CAM, RM, CM",16000000,18000,936000,17.09,87.0,66.0,74.0,83.0,63.0,62.0,Right
+231521,E. Palacios,Exequiel Palacios,20,U21 Wonderkid,Argentina,River Plate,77,87,10,Midfielder,"CM, RM, CAM",14000000,18000,936000,14.96,77.0,73.0,73.0,77.0,68.0,74.0,Right
+237715,P. Cutrone,Patrick Cutrone,21,21-25 Rising,Italy,Wolverhampton Wanderers,77,87,10,Attacker,ST,14500000,58000,3016000,4.81,73.0,74.0,56.0,74.0,29.0,69.0,Right
+234569,Florentino,Florentino Morris Luís,19,U21 Wonderkid,Portugal,SL Benfica,76,87,11,Midfielder,"CDM, CM",12000000,6000,312000,38.46,65.0,44.0,62.0,68.0,76.0,73.0,Right
+237629,A. Maier,Arne Maier,20,U21 Wonderkid,Germany,Hertha BSC,76,87,11,Midfielder,"CM, CDM",13000000,20000,1040000,12.5,67.0,57.0,72.0,75.0,68.0,70.0,Right
+237819,N. Domínguez,Nicolás Domínguez,21,21-25 Rising,Argentina,Vélez Sarsfield,75,87,12,Midfielder,"CM, CDM, RWB",12000000,11000,572000,20.98,79.0,63.0,70.0,74.0,70.0,78.0,Right
+243630,J. David,Jonathan David,19,U21 Wonderkid,Canada,KAA Gent,74,87,13,Attacker,"CF, ST, CAM",10500000,12000,624000,16.83,81.0,73.0,64.0,74.0,25.0,60.0,Right
+228736,W. Faríñez,Wuilker Faríñez,21,21-25 Rising,Venezuela,Millonarios FC,73,87,14,Goalkeeper,GK,7500000,2000,104000,72.12,,,,,,,Right
+232488,C. Romero,Cristian Gabriel Romero,21,21-25 Rising,Argentina,Genoa,73,87,14,Defender,"CB, RB",8000000,9000,468000,17.09,63.0,35.0,43.0,47.0,72.0,77.0,Right
+234396,A. Davies,Alphonso Davies,18,U21 Wonderkid,Canada,FC Bayern München,72,87,15,Midfielder,"LM, RM, LB",6500000,18000,936000,6.94,91.0,65.0,61.0,76.0,55.0,70.0,Left
+246419,Y. Verschaeren,Yari Verschaeren,17,U21 Wonderkid,Belgium,RSC Anderlecht,72,87,15,Midfielder,"CAM, RM, LM",6000000,2000,104000,57.69,70.0,63.0,70.0,78.0,39.0,53.0,Right
+242816,Riqui Puig,Ricard Puig Martí,19,U21 Wonderkid,Spain,FC Barcelona,71,87,16,Midfielder,CM,5000000,39000,2028000,2.47,65.0,57.0,73.0,76.0,54.0,46.0,Right
+237681,T. Kubo,久保 建英,18,U21 Wonderkid,Japan,Real Madrid,70,87,17,Midfielder,"RM, CF",3700000,21000,1092000,3.39,82.0,60.0,62.0,78.0,39.0,52.0,Left
+246469,A. Urzi,Agustín Urzi,19,U21 Wonderkid,Argentina,Club Atlético Banfield,69,87,18,Midfielder,"LM, CM",2300000,4000,208000,11.06,88.0,59.0,59.0,73.0,36.0,52.0,Right
+246147,M. Greenwood,Mason Greenwood,17,U21 Wonderkid,England,Manchester United,67,87,20,Attacker,"CF, RM, ST",1500000,6000,312000,4.81,76.0,66.0,61.0,68.0,36.0,59.0,Left
+236679,Melendo,Óscar Melendo Jiménez,21,21-25 Rising,Spain,RCD Espanyol,80,86,6,Midfielder,"RM, LM, CAM",20500000,26000,1352000,15.16,82.0,71.0,77.0,82.0,55.0,61.0,Left
+227796,C. Pulisic,Christian Pulisic,20,U21 Wonderkid,United States,Chelsea,79,86,7,Attacker,"LW, RW",18000000,85000,4420000,4.07,90.0,68.0,70.0,84.0,36.0,58.0,Right
+235212,A. Hakimi,Achraf Hakimi Mouh,20,U21 Wonderkid,Morocco,Borussia Dortmund,79,86,7,Defender,"LB, RB",16000000,48000,2496000,6.41,92.0,62.0,72.0,80.0,74.0,74.0,Right
+238476,D. Zagadou,Dan-Axel Zagadou,20,U21 Wonderkid,France,Borussia Dortmund,79,86,7,Defender,"CB, LB",16000000,48000,2496000,6.41,62.0,34.0,61.0,50.0,80.0,80.0,Left
+244369,V. Tsygankov,Viktor Tsygankov,21,21-25 Rising,Ukraine,Dynamo Kyiv,79,86,7,Midfielder,"RM, LM",18000000,1000,52000,346.15,83.0,73.0,77.0,80.0,47.0,56.0,Left
+234612,J. Ikoné,Nanitamo Jonathan Ikoné,21,21-25 Rising,France,LOSC Lille,78,86,8,Midfielder,CAM,15500000,29000,1508000,10.28,89.0,70.0,72.0,82.0,33.0,60.0,Left
+235889,C. Ünder,Cengiz Ünder,21,21-25 Rising,Turkey,Roma,78,86,8,Attacker,"RW, RM",15500000,35000,1820000,8.52,82.0,75.0,74.0,82.0,37.0,50.0,Left
+220196,D. Brooks,David Brooks,21,21-25 Rising,Wales,Bournemouth,77,86,9,Midfielder,"RM, CAM",14000000,44000,2288000,6.12,75.0,71.0,75.0,79.0,48.0,66.0,Left
+230899,A. Lookman,Ademola Lookman,21,21-25 Rising,England,RB Leipzig,76,86,10,Midfielder,"RM, LM",12500000,32000,1664000,7.51,82.0,74.0,68.0,83.0,28.0,61.0,Right
+232999,T. Adams,Tyler Adams,20,U21 Wonderkid,United States,RB Leipzig,76,86,10,Midfielder,"CDM, RWB",11500000,28000,1456000,7.9,76.0,48.0,67.0,72.0,73.0,75.0,Right
+236403,E. N'Dicka,Evan N'Dicka,19,U21 Wonderkid,France,Eintracht Frankfurt,76,86,10,Defender,CB,11000000,15000,780000,14.1,68.0,44.0,59.0,61.0,76.0,74.0,Left
+238744,W. McKennie,Weston McKennie,20,U21 Wonderkid,United States,FC Schalke 04,76,86,10,Midfielder,"CM, CB, CAM",12500000,21000,1092000,11.45,68.0,64.0,69.0,74.0,76.0,83.0,Right
+239837,A. Mac Allister,Alexis Mac Allister,20,U21 Wonderkid,Argentina,Boca Juniors,76,86,10,Midfielder,"CAM, CM, LM",12500000,17000,884000,14.14,71.0,75.0,75.0,74.0,56.0,62.0,Right
+241486,J. Koundé,Jules Koundé,20,U21 Wonderkid,France,Sevilla FC,76,86,10,Defender,CB,11500000,11000,572000,20.1,70.0,31.0,48.0,62.0,78.0,69.0,Right
+243780,Kangin Lee,이강인 Kangin Lee,18,U21 Wonderkid,Korea Republic,Valencia CF,76,86,10,Midfielder,"CAM, LM, RM",11500000,11000,572000,20.1,72.0,71.0,75.0,80.0,27.0,49.0,Left
+233064,M. Mount,Mason Mount,20,U21 Wonderkid,England,Chelsea,75,86,11,Midfielder,"CAM, CM",11500000,57000,2964000,3.88,71.0,68.0,74.0,76.0,46.0,53.0,Right
+235883,R. Sessegnon,Ryan Sessegnon,19,U21 Wonderkid,England,Tottenham Hotspur,75,86,11,Midfielder,"LM, LW, LB",11000000,38000,1976000,5.57,87.0,67.0,68.0,75.0,64.0,62.0,Left
+236496,M. Guendouzi,Mattéo Guendouzi,20,U21 Wonderkid,France,Arsenal,75,86,11,Midfielder,"CM, CDM",11500000,46000,2392000,4.81,71.0,62.0,73.0,73.0,69.0,74.0,Right
+236593,C. Stengs,Calvin Stengs,20,U21 Wonderkid,Netherlands,AZ Alkmaar,75,86,11,Attacker,RW,11500000,9000,468000,24.57,77.0,62.0,73.0,79.0,34.0,58.0,Left
+236920,J. Kluivert,Justin Kluivert,20,U21 Wonderkid,Netherlands,Roma,75,86,11,Attacker,"LW, RW",11500000,29000,1508000,7.63,88.0,72.0,66.0,80.0,37.0,59.0,Right
+236987,B. Kamara,Boubacar Kamara,19,U21 Wonderkid,France,Olympique de Marseille,75,86,11,Defender,CB,10000000,15000,780000,12.82,70.0,35.0,67.0,70.0,75.0,74.0,Right
+241721,Rafael Leão,Rafael da Conceição Leão,20,U21 Wonderkid,Portugal,Milan,75,86,11,Attacker,ST,11500000,27000,1404000,8.19,87.0,72.0,64.0,75.0,27.0,71.0,Right
+241168,G. Chakvetadze,Giorgi Chakvetadze,19,U21 Wonderkid,Georgia,KAA Gent,74,86,12,Midfielder,"LM, CAM",10000000,11000,572000,17.48,83.0,70.0,71.0,78.0,34.0,59.0,Right
+231410,Brahim,Brahim Díaz,19,U21 Wonderkid,Spain,Real Madrid,73,86,13,Attacker,"LW, RW",7500000,58000,3016000,2.49,78.0,66.0,63.0,81.0,29.0,43.0,Left
+238074,R. James,Reece James,19,U21 Wonderkid,England,Chelsea,73,86,13,Defender,"RB, CDM",7000000,31000,1612000,4.34,79.0,57.0,69.0,72.0,70.0,75.0,Right
+224949,J. Dilrosun,Javairô Dilrosun,21,21-25 Rising,Netherlands,Hertha BSC,72,86,14,Midfielder,"LM, RM",7000000,14000,728000,9.62,89.0,63.0,61.0,76.0,44.0,52.0,Left
+236477,A. Claude Maurice,Alexis Claude Maurice,21,21-25 Rising,France,FC Lorient,72,86,14,Midfielder,"LM, CAM",7000000,5000,260000,26.92,89.0,69.0,63.0,74.0,37.0,51.0,Right
+239817,B. Soumaré,Boubakary Soumaré,20,U21 Wonderkid,France,LOSC Lille,72,86,14,Midfielder,"CM, CDM",7000000,18000,936000,7.48,69.0,56.0,67.0,74.0,67.0,71.0,Right
+234108,G. Maroni,Gonzalo Maroni,20,U21 Wonderkid,Argentina,Sampdoria,71,86,15,Midfielder,"CAM, LW",5000000,15000,780000,6.41,78.0,54.0,67.0,77.0,43.0,58.0,Right
+239970,Paulinho,Paulo Henrique Sampaio Filho,18,U21 Wonderkid,Brazil,Bayer 04 Leverkusen,71,86,15,Midfielder,RM,4900000,11000,572000,8.57,79.0,61.0,66.0,75.0,34.0,67.0,Right
+245388,J. Todibo,Jean-Clair Todibo,19,U21 Wonderkid,France,FC Barcelona,71,86,15,Defender,"CB, CDM",4800000,33000,1716000,2.8,69.0,43.0,58.0,63.0,67.0,76.0,Right
+235842,A. Pinamonti,Andrea Pinamonti,20,U21 Wonderkid,Italy,Genoa,70,86,16,Attacker,ST,3900000,8000,416000,9.38,64.0,70.0,45.0,67.0,22.0,63.0,Right
+236015,M. Gibbs-White,Morgan Gibbs-White,19,U21 Wonderkid,England,Wolverhampton Wanderers,70,86,16,Midfielder,"CM, CAM",3800000,20000,1040000,3.65,72.0,61.0,69.0,72.0,56.0,64.0,Right
+239956,M. Boadu,Myron Boadu,18,U21 Wonderkid,Netherlands,AZ Alkmaar,70,86,16,Attacker,ST,3700000,3000,156000,23.72,85.0,67.0,51.0,74.0,28.0,62.0,Right
+240787,H. Traorè,Hamed Junior Traorè,19,U21 Wonderkid,Ivory Coast,Sassuolo,70,86,16,Midfielder,"CAM, CM",3800000,14000,728000,5.22,66.0,66.0,68.0,73.0,56.0,61.0,Right
+241568,C. Ferreira,Cristian Ferreira,19,U21 Wonderkid,Argentina,River Plate,70,86,16,Midfielder,"CM, CAM",3800000,7000,364000,10.44,75.0,69.0,73.0,74.0,49.0,61.0,Right
+245149,J. Hurtado,Jan Hurtado,19,U21 Wonderkid,Venezuela,Boca Juniors,70,86,16,Attacker,ST,3800000,8000,416000,9.13,83.0,68.0,60.0,72.0,24.0,68.0,Right
+246618,A. Hložek,Adam Hložek,16,U21 Wonderkid,Czech Republic,Sparta Praha,70,86,16,Attacker,"RW, ST, RM",3500000,1000,52000,67.31,74.0,68.0,66.0,74.0,30.0,73.0,Right
+246791,M. Solomon,Manor Solomon,19,U21 Wonderkid,Israel,Shakhtar Donetsk,70,86,16,Midfielder,"RM, LM, CAM",3800000,1000,52000,73.08,79.0,56.0,63.0,75.0,33.0,45.0,Right
+238049,P. Pomykal,Paxton Pomykal,19,U21 Wonderkid,United States,FC Dallas,69,86,17,Midfielder,"CAM, CM, RM",2300000,2000,104000,22.12,74.0,58.0,68.0,68.0,54.0,63.0,Left
+240507,A. Gomes,Angel Gomes,18,U21 Wonderkid,England,Manchester United,68,86,18,Midfielder,"CAM, CM, LW",1800000,12000,624000,2.88,73.0,62.0,66.0,71.0,39.0,42.0,Right
+240753,A. Gouiri,Amine Gouiri,19,U21 Wonderkid,France,Olympique Lyonnais,68,86,18,Attacker,ST,1900000,14000,728000,2.61,72.0,65.0,55.0,69.0,21.0,61.0,Right
+246960,M. Ihattaren,Mohamed Ihattaren,17,U21 Wonderkid,Netherlands,PSV,68,86,18,Midfielder,"CAM, RW",1800000,1000,52000,34.62,72.0,55.0,66.0,73.0,41.0,53.0,Left
+235735,E. Ampadu,Ethan Ampadu,18,U21 Wonderkid,Wales,RB Leipzig,67,86,19,Defender,"CB, CDM",1500000,4000,208000,7.21,61.0,30.0,54.0,59.0,66.0,66.0,Right
+238873,P. Pellegri,Pietro Pellegri,18,U21 Wonderkid,Italy,AS Monaco,67,86,19,Attacker,ST,1600000,5000,260000,6.15,68.0,65.0,54.0,66.0,20.0,63.0,Right
+241042,O. Skipp,Oliver Skipp,18,U21 Wonderkid,England,Tottenham Hotspur,67,86,19,Midfielder,"CDM, CM",1500000,6000,312000,4.81,63.0,45.0,63.0,63.0,62.0,62.0,Right
+242214,J. Sands,James Sands,18,U21 Wonderkid,United States,New York City FC,66,86,20,Midfielder,"CDM, CB",1200000,1000,52000,23.08,57.0,49.0,58.0,64.0,64.0,63.0,Right
+246420,J. Doku,Jérémy Doku,17,U21 Wonderkid,Belgium,RSC Anderlecht,66,86,20,Attacker,RW,1300000,1000,52000,25.0,88.0,51.0,56.0,74.0,26.0,44.0,Right
+246669,B. Saka,Bukayo Saka,17,U21 Wonderkid,England,Arsenal,65,86,21,Midfielder,"LM, RM",1200000,2000,104000,11.54,83.0,60.0,58.0,67.0,37.0,59.0,Left
+252259,E. Millot,Enzo Millot,16,U21 Wonderkid,France,AS Monaco,63,86,23,Midfielder,CM,800000,1000,52000,15.38,73.0,55.0,63.0,70.0,50.0,48.0,Left
+222665,M. Ødegaard,Martin Ødegaard,20,U21 Wonderkid,Norway,Real Sociedad,78,85,7,Attacker,"RW, CAM, CM",14500000,25000,1300000,11.15,74.0,69.0,82.0,85.0,40.0,49.0,Left
+226166,N. Mukiele,Nordi Mukiele,21,21-25 Rising,France,RB Leipzig,77,85,8,Defender,"CB, RB",12000000,30000,1560000,7.69,77.0,42.0,68.0,72.0,76.0,76.0,Right
+232411,C. Nkunku,Christopher Nkunku,21,21-25 Rising,France,RB Leipzig,77,85,8,Midfielder,"CM, LW, RW",13000000,34000,1768000,7.35,77.0,74.0,75.0,80.0,69.0,65.0,Right
+238359,Wendel,Marcus Wendel Valle da Silva,21,21-25 Rising,Brazil,Sporting CP,77,85,8,Midfielder,CM,13000000,11000,572000,22.73,78.0,71.0,74.0,79.0,72.0,71.0,Right
+239053,F. Valverde,Federico Valverde,20,U21 Wonderkid,Uruguay,Real Madrid,77,85,8,Midfielder,"CM, LM, CDM",13000000,86000,4472000,2.91,68.0,69.0,73.0,73.0,66.0,67.0,Right
+239301,L. Martínez,Lisandro Martínez,21,21-25 Rising,Argentina,Ajax,77,85,8,Defender,"CB, LB",12000000,13000,676000,17.75,75.0,55.0,70.0,74.0,77.0,76.0,Left
+241095,N. Vlašić,Nikola Vlašić,21,21-25 Rising,Croatia,PFC CSKA Moscow,77,85,8,Midfielder,"CAM, LM",13000000,1000,52000,250.0,79.0,70.0,73.0,80.0,48.0,66.0,Right
+251573,Renan Lodi,Renan Augusto Lodi dos Santos,21,21-25 Rising,Brazil,Atlético Madrid,77,85,8,Defender,LB,12000000,31000,1612000,7.44,84.0,66.0,75.0,79.0,72.0,73.0,Left
+231352,T. Abraham,Tammy Abraham,21,21-25 Rising,England,Chelsea,76,85,9,Attacker,ST,12000000,67000,3484000,3.44,74.0,74.0,57.0,69.0,31.0,68.0,Right
+231447,D. Malen,Donyell Malen,20,U21 Wonderkid,Netherlands,PSV,76,85,9,Attacker,"ST, LW",12000000,15000,780000,15.38,91.0,73.0,64.0,80.0,29.0,72.0,Right
+233113,Aleñá,Carles Aleñá Castillo,21,21-25 Rising,Spain,FC Barcelona,76,85,9,Midfielder,"CM, RW, CAM",12000000,81000,4212000,2.85,75.0,68.0,73.0,78.0,61.0,62.0,Left
+234568,Gedson Fernandes,Gedson Carvalho Fernandes,20,U21 Wonderkid,Portugal,SL Benfica,76,85,9,Midfielder,CM,12000000,10000,520000,23.08,79.0,70.0,73.0,76.0,71.0,77.0,Right
+235029,F. Chalov,Fedor Chalov,21,21-25 Rising,Russia,PFC CSKA Moscow,76,85,9,Attacker,ST,12000000,1000,52000,230.77,80.0,74.0,65.0,75.0,33.0,63.0,Right
+235173,I. Sangaré,Ibrahim Sangaré,21,21-25 Rising,Ivory Coast,Toulouse Football Club,76,85,9,Midfielder,"CDM, CM",11000000,18000,936000,11.75,68.0,64.0,72.0,72.0,74.0,80.0,Right
+244269,F. Benković,Filip Benković,21,21-25 Rising,Croatia,Leicester City,76,85,9,Defender,CB,11000000,43000,2236000,4.92,64.0,46.0,56.0,56.0,75.0,82.0,Right
+246172,S. Chukwueze,Samuel Chukwueze,20,U21 Wonderkid,Nigeria,Villarreal CF,76,85,9,Midfielder,"RM, CF, RW",12000000,22000,1144000,10.49,87.0,72.0,66.0,82.0,36.0,57.0,Left
+227503,J. Larsen,Jacob Bruun Larsen,20,U21 Wonderkid,Denmark,Borussia Dortmund,75,85,10,Midfielder,LM,11000000,41000,2132000,5.16,85.0,70.0,68.0,75.0,57.0,73.0,Right
+234574,Diogo Dalot,José Diogo Dalot Teixeira,20,U21 Wonderkid,Portugal,Manchester United,75,85,10,Defender,"RB, LB, RM",10000000,54000,2808000,3.56,80.0,60.0,71.0,77.0,70.0,77.0,Right
+234742,H. Barnes,Harvey Lewis Barnes,21,21-25 Rising,England,Leicester City,75,85,10,Attacker,"LW, CAM",11000000,52000,2704000,4.07,78.0,69.0,71.0,76.0,45.0,57.0,Right
+234986,P. Retsos,Panagiotis Retsos,20,U21 Wonderkid,Greece,Bayer 04 Leverkusen,75,85,10,Defender,"CB, RB, LB",10000000,32000,1664000,6.01,68.0,35.0,59.0,56.0,75.0,71.0,Right
+238227,K. Diatta,Krépin Diatta,20,U21 Wonderkid,Senegal,Club Brugge KV,75,85,10,Attacker,"LW, RW, ST",11000000,18000,936000,11.75,93.0,67.0,66.0,79.0,47.0,63.0,Right
+241461,Ferrán Torres,Ferrán Torres García,19,U21 Wonderkid,Spain,Valencia CF,75,85,10,Midfielder,RM,10500000,17000,884000,11.88,78.0,69.0,69.0,76.0,32.0,57.0,Right
+226568,I. Hagi,Ianis Hagi,20,U21 Wonderkid,Romania,KRC Genk,74,85,11,Midfielder,"CAM, LW, RW",9500000,11000,572000,16.61,81.0,66.0,71.0,76.0,36.0,68.0,Right
+232293,V. Osimhen,Victor James Osimhen,20,U21 Wonderkid,Nigeria,LOSC Lille,74,85,11,Attacker,ST,10000000,25000,1300000,7.69,85.0,73.0,61.0,70.0,36.0,76.0,Right
+236935,H. Wolf,Hannes Wolf,20,U21 Wonderkid,Austria,RB Leipzig,74,85,11,Midfielder,CAM,9500000,28000,1456000,6.52,81.0,67.0,68.0,78.0,34.0,60.0,Left
+237221,J. Foyth,Juan Marcos Foyth,21,21-25 Rising,Argentina,Tottenham Hotspur,74,85,11,Defender,"CB, RB",9000000,40000,2080000,4.33,70.0,45.0,66.0,72.0,74.0,70.0,Right
+238160,M. Demiral,Merih Demiral,21,21-25 Rising,Turkey,Juventus,74,85,11,Defender,CB,9000000,45000,2340000,3.85,66.0,39.0,48.0,57.0,75.0,75.0,Right
+239890,O. Kabak,Ozan Muhammed Kabak,19,U21 Wonderkid,Turkey,FC Schalke 04,74,85,11,Defender,CB,8500000,12000,624000,13.62,69.0,33.0,54.0,66.0,74.0,74.0,Right
+240243,Matheus Cunha,Matheus Santos Carneiro Da Cunha,20,U21 Wonderkid,Brazil,RB Leipzig,74,85,11,Attacker,"ST, CAM",10000000,32000,1664000,6.01,76.0,74.0,63.0,80.0,28.0,63.0,Right
+241103,Z. Vanheusden,Zinho Vanheusden,19,U21 Wonderkid,Belgium,Standard de Liège,74,85,11,Defender,CB,8500000,7000,364000,23.35,61.0,39.0,59.0,64.0,75.0,71.0,Right
+241852,M. Diaby,Moussa Diaby,19,U21 Wonderkid,France,Bayer 04 Leverkusen,74,85,11,Midfielder,LM,9500000,25000,1300000,7.31,87.0,62.0,68.0,78.0,42.0,51.0,Left
+243282,D. McNeil,Dwight McNeil,19,U21 Wonderkid,England,Burnley,74,85,11,Midfielder,LM,9500000,17000,884000,10.75,77.0,66.0,71.0,75.0,50.0,66.0,Left
+225614,I. Akhmetov,Ilzat Akhmetov,21,21-25 Rising,Russia,PFC CSKA Moscow,73,85,12,Midfielder,"CM, CAM",7000000,1000,52000,134.62,75.0,58.0,72.0,76.0,60.0,51.0,Right
+239085,E. Håland,Erling Braut Håland,18,U21 Wonderkid,Norway,FC Red Bull Salzburg,73,85,12,Attacker,ST,6500000,12000,624000,10.42,81.0,70.0,55.0,72.0,35.0,80.0,Left
+244374,M. Shaparenko,Mykola Shaparenko,20,U21 Wonderkid,Ukraine,Dynamo Kyiv,73,85,12,Midfielder,"CM, CDM, CAM",7000000,1000,52000,134.62,65.0,63.0,68.0,73.0,65.0,56.0,Right
+244622,Puado,Javier Puado Díaz,21,21-25 Rising,Spain,RCD Espanyol,73,85,12,Attacker,"ST, CF, CAM",7000000,18000,936000,7.48,80.0,69.0,59.0,75.0,29.0,60.0,Right
+231448,R. Nelson,Reiss Nelson,19,U21 Wonderkid,England,Arsenal,72,85,13,Attacker,"RW, LW, LM",6000000,31000,1612000,3.72,88.0,65.0,60.0,79.0,34.0,47.0,Right
+234570,Jota,João Pedro Neves Filipe,20,U21 Wonderkid,Portugal,SL Benfica,72,85,13,Midfielder,"LM, RM, CF",6000000,7000,364000,16.48,85.0,64.0,65.0,79.0,32.0,50.0,Right
+237995,D. Lainez,Diego Lainez Leyva,19,U21 Wonderkid,Mexico,Real Betis,72,85,13,Midfielder,"RM, LM, CAM",6000000,9000,468000,12.82,84.0,63.0,64.0,79.0,47.0,53.0,Left
+240060,M. Aarons,Maximillian James Aarons,19,U21 Wonderkid,England,Norwich City,72,85,13,Defender,RB,5500000,15000,780000,7.05,83.0,41.0,60.0,73.0,70.0,64.0,Right
+247641,Tete,Mateus Tetê,19,U21 Wonderkid,Brazil,Shakhtar Donetsk,72,85,13,Midfielder,"LM, CAM",6000000,1000,52000,115.38,83.0,60.0,65.0,79.0,29.0,58.0,Left
+244389,Fernando,Fernando Dos Santos Pedro,20,U21 Wonderkid,Brazil,Shakhtar Donetsk,71,85,14,Midfielder,LM,5000000,1000,52000,96.15,86.0,61.0,60.0,77.0,30.0,43.0,Right
+247185,A. Palaversa,Ante Palaversa,19,U21 Wonderkid,Croatia,KV Oostende,71,85,14,Midfielder,"CM, CDM, CAM",5000000,6000,312000,16.03,68.0,59.0,70.0,68.0,69.0,69.0,Right
+238581,R. Vargas,Ruben Vargas,20,U21 Wonderkid,Switzerland,FC Augsburg,70,85,15,Midfielder,"RM, LM",3900000,10000,520000,7.5,80.0,65.0,64.0,71.0,53.0,63.0,Left
+247181,G. Plata,Gonzalo Plata,18,U21 Wonderkid,Ecuador,Sporting CP,70,85,15,Attacker,"LW, RW",3700000,3000,156000,23.72,83.0,64.0,61.0,76.0,28.0,60.0,Left
+239136,N. Cozza,Nicolas Cozza,20,U21 Wonderkid,France,Montpellier HSC,69,85,16,Defender,"CB, LWB",2200000,9000,468000,4.7,76.0,36.0,61.0,63.0,69.0,71.0,Left
+242081,A. Almendra,Agustín Almendra,19,U21 Wonderkid,Argentina,Boca Juniors,69,85,16,Midfielder,"CM, CDM",2200000,6000,312000,7.05,65.0,57.0,67.0,69.0,59.0,61.0,Right
+242374,M. Barrow,Musa Barrow,20,U21 Wonderkid,Gambia,Atalanta,69,85,16,Attacker,ST,2300000,18000,936000,2.46,81.0,66.0,48.0,69.0,31.0,58.0,Right
+246646,M. Caqueret,Maxence Caqueret,19,U21 Wonderkid,France,Olympique Lyonnais,69,85,16,Midfielder,"CM, CDM",2200000,15000,780000,2.82,74.0,55.0,68.0,70.0,59.0,62.0,Right
+241811,Sergio Gómez,Sergio Gómez Martín,18,U21 Wonderkid,Spain,SD Huesca,68,85,17,Midfielder,"CAM, CM, LM",1800000,1000,52000,34.62,70.0,63.0,68.0,74.0,42.0,41.0,Left
+242578,B. Badiashile,Benoît Badiashile Mukinayi,18,U21 Wonderkid,France,AS Monaco,68,85,17,Defender,CB,1700000,4000,208000,8.17,54.0,30.0,49.0,49.0,66.0,71.0,Left
+244884,M. Pellegrini,Matías Pellegrini,19,U21 Wonderkid,Argentina,Estudiantes de La Plata,68,85,17,Midfielder,"LM, CM, RW",1900000,4000,208000,9.13,79.0,61.0,60.0,72.0,49.0,51.0,Left
+244938,Montero,Francisco Montero Rubio,20,U21 Wonderkid,Spain,Atlético Madrid,68,85,17,Defender,CB,1800000,11000,572000,3.15,60.0,30.0,50.0,58.0,67.0,68.0,Left
+245762,A. Kutucu,Ahmed Kutucu,19,U21 Wonderkid,Turkey,FC Schalke 04,68,85,17,Attacker,"ST, CF, RW",1900000,7000,364000,5.22,79.0,69.0,55.0,68.0,41.0,67.0,Right
+252037,Fábio Silva,Fábio Daniel Soares Silva,16,U21 Wonderkid,Portugal,FC Porto,68,85,17,Attacker,ST,1800000,1000,52000,34.62,74.0,67.0,45.0,72.0,22.0,64.0,Right
+239981,J. Arp,Jann-Fiete Arp,19,U21 Wonderkid,Germany,FC Bayern München,67,85,18,Attacker,"ST, LM",1600000,16000,832000,1.92,69.0,64.0,49.0,70.0,22.0,55.0,Right
+240969,J. Carranza,Julián Carranza,19,U21 Wonderkid,Argentina,Club Atlético Banfield,67,85,18,Attacker,ST,1600000,4000,208000,7.69,69.0,65.0,54.0,66.0,33.0,61.0,Right
+246104,R. Gravenberch,Ryan Gravenberch,17,U21 Wonderkid,Netherlands,Ajax,67,85,18,Midfielder,"CM, CDM",1500000,1000,52000,28.85,72.0,61.0,67.0,71.0,54.0,67.0,Right
+246191,J. Álvarez,Julián Álvarez,19,U21 Wonderkid,Argentina,River Plate,67,85,18,Attacker,ST,1600000,5000,260000,6.15,75.0,66.0,60.0,71.0,27.0,45.0,Right
+243392,R. Matondo,Rabbi Matondo,18,U21 Wonderkid,Wales,FC Schalke 04,66,85,19,Midfielder,"RM, LM",1300000,3000,156000,8.33,88.0,56.0,61.0,68.0,31.0,49.0,Right
+243627,Y. Adli,Yacine Adli,18,U21 Wonderkid,France,FC Girondins de Bordeaux,66,85,19,Midfielder,"CM, CAM",1300000,3000,156000,8.33,61.0,53.0,65.0,71.0,57.0,60.0,Right
+244267,A. Marin,Antonio Marin,18,U21 Wonderkid,Croatia,Dinamo Zagreb,66,85,19,Attacker,"LW, RW, CAM",1300000,1000,52000,25.0,79.0,58.0,61.0,72.0,32.0,55.0,Right
+245999,Mollejo,Víctor Mollejo Carpintero,18,U21 Wonderkid,Spain,Atlético Madrid,65,85,20,Attacker,RW,1100000,5000,260000,4.23,71.0,60.0,59.0,67.0,26.0,39.0,Left
+247377,Marcos Antonio,Marcos Antonio Silva Santos,19,U21 Wonderkid,Brazil,Shakhtar Donetsk,65,85,20,Midfielder,CM,1100000,1000,52000,21.15,72.0,51.0,65.0,67.0,41.0,55.0,Right
+245902,T. Parrott,Troy Parrott,17,U21 Wonderkid,Republic of Ireland,Tottenham Hotspur,64,85,21,Attacker,ST,1000000,4000,208000,4.81,76.0,64.0,53.0,62.0,26.0,58.0,Right
+248385,R. Piccoli,Roberto Piccoli,18,U21 Wonderkid,Italy,Atalanta,64,85,21,Attacker,ST,1000000,5000,260000,3.85,55.0,63.0,47.0,57.0,34.0,63.0,Right
+246683,L. Agoume,Lucien Agoume,17,U21 Wonderkid,France,Inter,63,85,22,Midfielder,CM,800000,1000,52000,15.38,65.0,54.0,59.0,64.0,46.0,63.0,Right
+247888,S. Esposito,Sebastiano Esposito,16,U21 Wonderkid,Italy,Inter,63,85,22,Attacker,ST,825000,2000,104000,7.93,52.0,63.0,50.0,66.0,26.0,52.0,Right
+246763,K. Hoever,Ki-Jana Hoever,17,U21 Wonderkid,Netherlands,Liverpool,62,85,23,Defender,"RB, CB",625000,1000,52000,12.02,72.0,36.0,57.0,64.0,61.0,62.0,Right
